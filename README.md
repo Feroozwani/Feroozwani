@@ -1,5 +1,5 @@
 <h1 align="center">Greetings, This is Ferooz-Wani</h1>
-<h3 align="center">Dedicated React Native Developer with a passion for crafting seamless user experiences.</h3>
+<h3 align="center">Dedicated Software Engineer with a passion for crafting seamless user experiences.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
